@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=programlama%20dilleri%20png%20card%20hd&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F567%2F267%2Fpng-clipart-types-and-programming-languages-computer-programming-programmer-programming-language-text-computer-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Ftr%2Fsearch%3Fq%3Dprogramlama%2Bdili&docid=e_7alROZu0IIsM&tbnid=6jjiTY9RDR6LOM&vet=12ahUKEwiGyuzwrf-KAxWBB9sEHdsPOo4QM3oECBgQAA..i&w=348&h=167&hcb=2&ved=2ahUKEwiGyuzwrf-KAxWBB9sEHdsPOo4QM3oECBgQAA)
+[![MasterHead]()
 <h1 align="center">Merhaba 👋, ben Kaan-yildz</h1>
 <h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
 
@@ -28,7 +28,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" yükseklik="30"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" genişlik="30" yükseklik="30"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="30" yükseklik="30"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="5" yükseklik="5"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> </p>
 
